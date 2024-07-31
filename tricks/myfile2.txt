@@ -1,0 +1,4 @@
+[1] Writing to a file using php is fun.
+[2] It is really fun.
+[3] Try it out some time.
+[4] Bye!
